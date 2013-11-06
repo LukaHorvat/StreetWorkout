@@ -1,0 +1,27 @@
+{
+  "name": "StreetWorkout",
+  "version": "0.0.0",
+  "description": "A simple micro-blogging service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LukaHorvat/StreetWorkout.git"
+  },
+  "dependencies": {
+  	"express"	: "*",
+  	"jade"		: "*",
+  	"stylus"	: "*",
+    "nib"		: "*",
+    "mongoose"	: "*"
+  },
+  "author": "Luka Horvat",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "8dbf71dd6d5431a6dc1352eec9d0a4e608dca338",
+  "bugs": {
+    "url": "https://github.com/LukaHorvat/StreetWorkout/issues"
+  }
+}

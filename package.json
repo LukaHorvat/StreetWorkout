@@ -11,11 +11,12 @@
     "url": "https://github.com/LukaHorvat/StreetWorkout.git"
   },
   "dependencies": {
-  	"express"	: "*",
-  	"jade"		: "*",
-  	"stylus"	: "*",
-    "nib"		: "*",
-    "mongoose"	: "*"
+  	"express"	        : "*",
+  	"jade"		        : "*",
+  	"stylus"	        : "*",
+    "nib"             : "*",
+    "mongoose"        : "*",
+    "passport-google" : "*"
   },
   "author": "Luka Horvat",
   "license": "BSD",
